@@ -1,0 +1,13 @@
+﻿province,city_regency,old_geocoding_query,new_geocoding_query,correction_note
+Aceh,Aceh Utara,Aceh Utara,Lhoksukon,Ibu kota Kabupaten Aceh Utara
+Aceh,Aceh Besar,Aceh Besar,Kota Jantho,Ibu kota Kabupaten Aceh Besar
+Aceh,Bireuen,Bireuen,Kota Juang,Ibu kota Kabupaten Bireuen
+Aceh,Aceh Timur,Aceh Timur,Idi Rayeuk,Ibu kota Kabupaten Aceh Timur
+Riau,Rokan Hilir,Bagan Siapiapi,Bagansiapiapi,Ejaan alternatif tanpa spasi
+DKI Jakarta,Jakarta Timur,Jakarta Timur,East Jakarta,Nama bahasa Inggris wilayah administrasi
+DKI Jakarta,Jakarta Selatan,Jakarta Selatan,South Jakarta,Nama bahasa Inggris wilayah administrasi
+DKI Jakarta,Jakarta Barat,Jakarta Barat,West Jakarta,Nama bahasa Inggris wilayah administrasi
+DKI Jakarta,Jakarta Utara,Jakarta Utara,North Jakarta,Nama bahasa Inggris wilayah administrasi
+Sulawesi Utara,Minahasa Selatan,Amurang,South Minahasa,Nama bahasa Inggris wilayah administrasi
+Sulawesi Selatan,Sidenreng Rappang,Pangkajene Sidenreng,Sidenreng Rappang,Nama kabupaten lengkap
+Kalimantan Tengah,Kapuas,Kuala Kapuas,Kuala Kapuas Kalimantan Tengah,Query diperjelas agar tidak match ke Malaysia

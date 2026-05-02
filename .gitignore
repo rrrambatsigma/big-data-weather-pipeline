@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Environment file
+.env
+
+# Logs
+logs/
+
+# Jangan push data mentah dan hasil processed
+data/raw/
+data/processed/
+
+# Kalau plugins tidak kamu pakai, jangan push
+plugins/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+province,city_regency,geocoding_query,expected_admin1,reason
+Sulawesi Selatan,Sidenreng Rappang,Sidrap,South Sulawesi,No matching result with country_code=ID and expected admin1

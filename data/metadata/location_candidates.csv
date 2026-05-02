@@ -1,0 +1,16 @@
+province,city_regency,selection_basis,geocoding_query,expected_admin1
+Jawa Timur,Lamongan,Produksi kuat pada padi dan relevan untuk komoditas tanaman pangan,Lamongan,East Java
+Jawa Timur,Tuban,Produksi kuat pada jagung dan padi,Tuban,East Java
+Jawa Timur,Jember,Produksi kuat pada padi dan jagung,Jember,East Java
+Jawa Timur,Ngawi,Produksi padi sangat besar,Ngawi,East Java
+Jawa Timur,Bojonegoro,Produksi padi besar dan relevan untuk tanaman pangan,Bojonegoro,East Java
+Lampung,Lampung Tengah,Produksi kuat pada padi dan jagung,Gunung Sugih,Lampung
+Lampung,Lampung Timur,Produksi kuat pada padi dan jagung,Sukadana,Lampung
+Lampung,Lampung Selatan,Produksi kuat pada padi dan jagung,Kalianda,Lampung
+Lampung,Tulangbawang,Produksi padi besar,Menggala,Lampung
+Lampung,Lampung Utara,Produksi jagung kuat,Kotabumi,Lampung
+Sulawesi Selatan,Bone,Produksi padi terbesar dan relevan untuk jagung,Watampone,South Sulawesi
+Sulawesi Selatan,Wajo,Produksi padi sangat besar,Sengkang,South Sulawesi
+Sulawesi Selatan,Pinrang,Produksi padi besar dan jagung kuat,Pinrang,South Sulawesi
+Sulawesi Selatan,Sidenreng Rappang,Produksi padi besar dan jagung kuat,Pangkajene Sidenreng,South Sulawesi
+Sulawesi Selatan,Gowa,Relevan untuk jagung dan kacang tanah,Sungguminasa,South Sulawesi
