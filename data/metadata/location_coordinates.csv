@@ -1,0 +1,16 @@
+province,city_regency,selection_basis,geocoding_query,matched_name,latitude,longitude,elevation,country_code,country,admin1,admin2,admin3,timezone,population,source
+Jawa Timur,Lamongan,Produksi kuat pada padi dan relevan untuk komoditas tanaman pangan,Lamongan,Lamongan,-7.11667,112.41667,8.0,ID,Indonesia,East Java,Kabupaten Lamongan,,Asia/Jakarta,59224.0,Open-Meteo Geocoding API
+Jawa Timur,Tuban,Produksi kuat pada jagung dan padi,Tuban,Tuban,-6.8976,112.0649,13.0,ID,Indonesia,East Java,Kabupaten Tuban,,Asia/Jakarta,76242.0,Open-Meteo Geocoding API
+Jawa Timur,Jember,Produksi kuat pada padi dan jagung,Jember,Jember,-8.17211,113.69953,86.0,ID,Indonesia,East Java,Kabupaten Jember,,Asia/Jakarta,298585.0,Open-Meteo Geocoding API
+Jawa Timur,Ngawi,Produksi padi sangat besar,Ngawi,Ngawi,-7.4038,111.4461,57.0,ID,Indonesia,East Java,Kabupaten Ngawi,,Asia/Jakarta,22412.0,Open-Meteo Geocoding API
+Jawa Timur,Bojonegoro,Produksi padi besar dan relevan untuk tanaman pangan,Bojonegoro,Bojonegoro,-7.1502,111.8817,24.0,ID,Indonesia,East Java,Bojonegoro Regency,,Asia/Jakarta,86568.0,Open-Meteo Geocoding API
+Lampung,Lampung Tengah,Produksi kuat pada padi dan jagung,Gunung Sugih,Gunung Sugih,-4.9753,105.21396,39.0,ID,Indonesia,Lampung,Central Lampung Regency,,Asia/Jakarta,,Open-Meteo Geocoding API
+Lampung,Lampung Timur,Produksi kuat pada padi dan jagung,Sukadana,Sukadana,-5.06446,105.54869,19.0,ID,Indonesia,Lampung,East Lampung Regency,,Asia/Jakarta,,Open-Meteo Geocoding API
+Lampung,Lampung Selatan,Produksi kuat pada padi dan jagung,Kalianda,Kalianda,-5.73805,105.5916,20.0,ID,Indonesia,Lampung,South Lampung Regency,,Asia/Jakarta,,Open-Meteo Geocoding API
+Lampung,Tulangbawang,Produksi padi besar,Menggala,Menggala,-4.47131,105.25214,27.0,ID,Indonesia,Lampung,Tulang Bawang Regency,,Asia/Jakarta,,Open-Meteo Geocoding API
+Lampung,Lampung Utara,Produksi jagung kuat,Kotabumi,Kotabumi,-4.82505,104.8817,37.0,ID,Indonesia,Lampung,North Lampung Regency,,Asia/Jakarta,42366.0,Open-Meteo Geocoding API
+Sulawesi Selatan,Bone,Produksi padi terbesar dan relevan untuk jagung,Watampone,Watampone,-4.5386,120.3279,34.0,ID,Indonesia,South Sulawesi,Bone Regency,,Asia/Makassar,149336.0,Open-Meteo Geocoding API
+Sulawesi Selatan,Wajo,Produksi padi sangat besar,Sengkang,Sengkang,-4.1279,120.0297,23.0,ID,Indonesia,South Sulawesi,Wajo Regency,,Asia/Makassar,59523.0,Open-Meteo Geocoding API
+Sulawesi Selatan,Pinrang,Produksi padi besar dan jagung kuat,Pinrang,Pinrang,-3.78611,119.65222,19.0,ID,Indonesia,South Sulawesi,Pinrang Regency,,Asia/Makassar,,Open-Meteo Geocoding API
+Sulawesi Selatan,Sidenreng Rappang,Produksi padi besar dan jagung kuat,Pangkajene Sidenreng,Pangkajene,-3.9258194,119.7953000,,ID,Indonesia,South Sulawesi,Sidenreng Rappang Regency,Maritengngae,Asia/Makassar,,Manual correction based on validated coordinate
+Sulawesi Selatan,Gowa,Relevan untuk jagung dan kacang tanah,Sungguminasa,Sungguminasa,-5.1971,119.451,10.0,ID,Indonesia,South Sulawesi,Gowa Regency,,Asia/Makassar,,Open-Meteo Geocoding API

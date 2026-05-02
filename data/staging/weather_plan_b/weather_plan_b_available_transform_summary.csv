@@ -1,0 +1,39 @@
+file_name,province,raw_rows,city_count,expected_min_rows,is_complete_by_rows,city_year_rows
+weather_plan_b_aceh_2020_2024.csv,Aceh,219240,5,219240,True,25
+weather_plan_b_bali_2020_2024.csv,Bali,219240,5,219240,True,25
+weather_plan_b_banten_2020_2024.csv,Banten,219240,5,219240,True,25
+weather_plan_b_bengkulu_2020_2024.csv,Bengkulu,219240,5,219240,True,25
+weather_plan_b_di_yogyakarta_2020_2024.csv,DI Yogyakarta,219240,5,219240,True,25
+weather_plan_b_dki_jakarta_2020_2024.csv,DKI Jakarta,219240,5,219240,True,25
+weather_plan_b_gorontalo_2020_2024.csv,Gorontalo,219240,5,219240,True,25
+weather_plan_b_jambi_2020_2024.csv,Jambi,219240,5,219240,True,25
+weather_plan_b_jawa_barat_2020_2024.csv,Jawa Barat,219240,5,219240,True,25
+weather_plan_b_jawa_tengah_2020_2024.csv,Jawa Tengah,219240,5,219240,True,25
+weather_plan_b_jawa_timur_2020_2024.csv,Jawa Timur,219240,5,219240,True,25
+weather_plan_b_kalimantan_barat_2020_2024.csv,Kalimantan Barat,219240,5,219240,True,25
+weather_plan_b_kalimantan_selatan_2020_2024.csv,Kalimantan Selatan,219240,5,219240,True,25
+weather_plan_b_kalimantan_tengah_2020_2024.csv,Kalimantan Tengah,219240,5,219240,True,25
+weather_plan_b_kalimantan_timur_2020_2024.csv,Kalimantan Timur,219240,5,219240,True,25
+weather_plan_b_kalimantan_utara_2020_2024.csv,Kalimantan Utara,219240,5,219240,True,25
+weather_plan_b_kepulauan_bangka_belitung_2020_2024.csv,Kepulauan Bangka Belitung,219240,5,219240,True,25
+weather_plan_b_kepulauan_riau_2020_2024.csv,Kepulauan Riau,219240,5,219240,True,25
+weather_plan_b_lampung_2020_2024.csv,Lampung,219240,5,219240,True,25
+weather_plan_b_maluku_2020_2024.csv,Maluku,219240,5,219240,True,25
+weather_plan_b_maluku_utara_2020_2024.csv,Maluku Utara,219240,5,219240,True,25
+weather_plan_b_nusa_tenggara_barat_2020_2024.csv,Nusa Tenggara Barat,219240,5,219240,True,25
+weather_plan_b_nusa_tenggara_timur_2020_2024.csv,Nusa Tenggara Timur,219240,5,219240,True,25
+weather_plan_b_papua_2020_2024.csv,Papua,219240,5,219240,True,25
+weather_plan_b_papua_barat_2020_2024.csv,Papua Barat,219240,5,219240,True,25
+weather_plan_b_papua_barat_daya_2020_2024.csv,Papua Barat Daya,219240,5,219240,True,25
+weather_plan_b_papua_pegunungan_2020_2024.csv,Papua Pegunungan,219240,5,219240,True,25
+weather_plan_b_papua_selatan_2020_2024.csv,Papua Selatan,175392,4,175392,True,20
+weather_plan_b_papua_tengah_2020_2024.csv,Papua Tengah,219240,5,219240,True,25
+weather_plan_b_riau_2020_2024.csv,Riau,219240,5,219240,True,25
+weather_plan_b_sulawesi_barat_2020_2024.csv,Sulawesi Barat,219240,5,219240,True,25
+weather_plan_b_sulawesi_selatan_2020_2024.csv,Sulawesi Selatan,219240,5,219240,True,25
+weather_plan_b_sulawesi_tengah_2020_2024.csv,Sulawesi Tengah,219240,5,219240,True,25
+weather_plan_b_sulawesi_tenggara_2020_2024.csv,Sulawesi Tenggara,219240,5,219240,True,25
+weather_plan_b_sulawesi_utara_2020_2024.csv,Sulawesi Utara,219240,5,219240,True,25
+weather_plan_b_sumatera_barat_2020_2024.csv,Sumatera Barat,219240,5,219240,True,25
+weather_plan_b_sumatera_selatan_2020_2024.csv,Sumatera Selatan,219240,5,219240,True,25
+weather_plan_b_sumatera_utara_2020_2024.csv,Sumatera Utara,219240,5,219240,True,25
